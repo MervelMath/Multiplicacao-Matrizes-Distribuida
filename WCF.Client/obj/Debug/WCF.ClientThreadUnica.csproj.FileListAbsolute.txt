@@ -1,0 +1,8 @@
+C:\Projetos IFSC\WCF\WCF.Client\bin\Debug\WCF.Client.exe.config
+C:\Projetos IFSC\WCF\WCF.Client\bin\Debug\WCF.Client.exe
+C:\Projetos IFSC\WCF\WCF.Client\bin\Debug\WCF.Client.pdb
+C:\Projetos IFSC\WCF\WCF.Client\obj\Debug\WCF.ClientThreadUnica.csproj.AssemblyReference.cache
+C:\Projetos IFSC\WCF\WCF.Client\obj\Debug\WCF.ClientThreadUnica.csproj.SuggestedBindingRedirects.cache
+C:\Projetos IFSC\WCF\WCF.Client\obj\Debug\WCF.ClientThreadUnica.csproj.CoreCompileInputs.cache
+C:\Projetos IFSC\WCF\WCF.Client\obj\Debug\WCF.Client.exe
+C:\Projetos IFSC\WCF\WCF.Client\obj\Debug\WCF.Client.pdb
